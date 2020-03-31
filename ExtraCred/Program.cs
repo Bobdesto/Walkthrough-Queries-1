@@ -5,9 +5,34 @@ namespace ExtraCred
 {
     class Program
     {
+        private static object students;
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Try!");
+            // Create the query.
+            // The first line could also be written as "var studentQuery ="
+            IEnumerable<Student> studentQuery =
+                from student in students
+                where student.Scores[0] > 90
+                select student;
+            // Execute the query.
+            // var could be used here also.
+            foreach (Student student in studentQuery)
+            {
+                Console.WriteLine("{0}, {1}", student.Last, student.First);
+            }
+
+            // Output:
+            // Omelchenko, Svetlana
+            // Garcia, Cesar
+            // Fakhouri, Fadi
+            // Feng, Hanying
+            // Garcia, Hugo
+            // Adams, Terry
+            // Zabokritski, Eugene
+            // Tucker, Michael
+
+
         }
     }
 
