@@ -1,0 +1,11 @@
+C:\Users\checheb\Desktop\CWEB 2010\ExtraCred\ExtraCred\bin\Debug\netcoreapp2.1\ExtraCred.deps.json
+C:\Users\checheb\Desktop\CWEB 2010\ExtraCred\ExtraCred\bin\Debug\netcoreapp2.1\ExtraCred.runtimeconfig.json
+C:\Users\checheb\Desktop\CWEB 2010\ExtraCred\ExtraCred\bin\Debug\netcoreapp2.1\ExtraCred.runtimeconfig.dev.json
+C:\Users\checheb\Desktop\CWEB 2010\ExtraCred\ExtraCred\bin\Debug\netcoreapp2.1\ExtraCred.dll
+C:\Users\checheb\Desktop\CWEB 2010\ExtraCred\ExtraCred\bin\Debug\netcoreapp2.1\ExtraCred.pdb
+C:\Users\checheb\Desktop\CWEB 2010\ExtraCred\ExtraCred\obj\Debug\netcoreapp2.1\ExtraCred.csprojAssemblyReference.cache
+C:\Users\checheb\Desktop\CWEB 2010\ExtraCred\ExtraCred\obj\Debug\netcoreapp2.1\ExtraCred.csproj.CoreCompileInputs.cache
+C:\Users\checheb\Desktop\CWEB 2010\ExtraCred\ExtraCred\obj\Debug\netcoreapp2.1\ExtraCred.AssemblyInfoInputs.cache
+C:\Users\checheb\Desktop\CWEB 2010\ExtraCred\ExtraCred\obj\Debug\netcoreapp2.1\ExtraCred.AssemblyInfo.cs
+C:\Users\checheb\Desktop\CWEB 2010\ExtraCred\ExtraCred\obj\Debug\netcoreapp2.1\ExtraCred.dll
+C:\Users\checheb\Desktop\CWEB 2010\ExtraCred\ExtraCred\obj\Debug\netcoreapp2.1\ExtraCred.pdb
