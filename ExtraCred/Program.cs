@@ -6,7 +6,7 @@ namespace ExtraCred
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Initial commit.!");
+            Console.WriteLine("Trying out my commits!");
         }
     }
 }
